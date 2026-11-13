@@ -7,10 +7,10 @@ Set de date deschise (JSON și GeoJSON) extras și georeferențiat de **[Bacău 
 
 ## Stadiu actualizare
 
-- **Procent fișe procesate:** **89.0%** (`761` din `855` fișe din registru)
-- **Ultima actualizare dataset:** `13.11.2026 14:55`
-- **Suprafață totală în fișele procesate:** `379.54` ha
-- **Arbori inventariați:** `70774` | **Arbuști:** `11737` | **Gard viu:** `125.83` km
+- **Procent fișe procesate:** **90.9%** (`777` din `855` fișe din registru)
+- **Ultima actualizare dataset:** `13.11.2026 17:10`
+- **Suprafață totală în fișele procesate:** `430.26` ha
+- **Arbori inventariați:** `78928` | **Arbuști:** `15408` | **Gard viu:** `158.78` km
 
 > Procentul de acoperire crește pe măsură ce fișele rămase sunt calibrate și validate spațial. Fiecare actualizare din acest repository menționează explicit procentul curent în mesajul de commit.
 
@@ -18,11 +18,11 @@ Set de date deschise (JSON și GeoJSON) extras și georeferențiat de **[Bacău 
 
 | Fișier | Conținut | Dimensiune |
 |---|---|---|
-| [`data/spatii_verzi_catalog.json`](data/spatii_verzi_catalog.json) | KPI-uri globale și metadatele tuturor fișelor (fără geometrii) | `2.84 MB` |
-| [`data/verde_data.min.json`](data/verde_data.min.json) | Dataset complet într-un singur fișier JSON minificat (atribute + toate geometriile) | `51.49 MB` |
-| [`data/geojson/spatii_verzi.geojson`](data/geojson/spatii_verzi.geojson) | Poligoanele zonelor verzi extrase (WGS84 / EPSG:4326) | `19.74 MB` |
-| [`data/geojson/limite.geojson`](data/geojson/limite.geojson) | Limitele perimetrale ale fiecărei fișe (WGS84 / EPSG:4326) | `16.51 MB` |
-| [`data/geojson/arbori.geojson`](data/geojson/arbori.geojson) | Punctele arborilor vectoriali cu atributele din fișe (WGS84 / EPSG:4326) | `34.06 MB` |
+| [`data/spatii_verzi_catalog.json`](data/spatii_verzi_catalog.json) | KPI-uri globale și metadatele tuturor fișelor (fără geometrii) | `2.90 MB` |
+| [`data/verde_data.min.json`](data/verde_data.min.json) | Dataset complet într-un singur fișier JSON minificat (atribute + toate geometriile) | `60.46 MB` |
+| [`data/geojson/spatii_verzi.geojson`](data/geojson/spatii_verzi.geojson) | Poligoanele zonelor verzi extrase (WGS84 / EPSG:4326) | `25.76 MB` |
+| [`data/geojson/limite.geojson`](data/geojson/limite.geojson) | Limitele perimetrale ale fiecărei fișe (WGS84 / EPSG:4326) | `19.32 MB` |
+| [`data/geojson/arbori.geojson`](data/geojson/arbori.geojson) | Punctele arborilor vectoriali cu atributele din fișe (WGS84 / EPSG:4326) | `34.29 MB` |
 | [`data/geojson/cladiri.geojson`](data/geojson/cladiri.geojson) | Amprentele clădirilor din schițele fișelor (WGS84 / EPSG:4326) | `1.78 MB` |
 
 ## Exemple rapide de utilizare
