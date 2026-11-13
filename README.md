@@ -1,6 +1,9 @@
 # Registrul Spațiilor Verzi — Municipiul Bacău (Open Data)
 
-Set de date deschise (JSON și GeoJSON) extras și georeferențiat de **Bacău Alert** pe baza fișelor PDF oficiale ale Registrului Local al Spațiilor Verzi publicate de Municipiul Bacău în anul 2024.
+Set de date deschise (JSON și GeoJSON) extras și georeferențiat de **[Bacău Alert](https://bacaualert.ro/)** pe baza fișelor PDF oficiale ale Registrului Local al Spațiilor Verzi publicate de Municipiul Bacău în anul 2024.
+
+- **Hartă interactivă gratuită:** [verde.bacaualert.ro](https://verde.bacaualert.ro/)
+- **Platforma principală:** [bacaualert.ro](https://bacaualert.ro/)
 
 ## Stadiu actualizare
 
